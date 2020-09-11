@@ -8,5 +8,6 @@ namespace IpaBisikletaMo_Application.Models
     public class gg
     {
         public int MyProperty { get; set; }
+        public int MyProperty1 { get; set; }
     }
 }
