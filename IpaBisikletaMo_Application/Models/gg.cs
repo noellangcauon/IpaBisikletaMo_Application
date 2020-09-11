@@ -7,5 +7,6 @@ namespace IpaBisikletaMo_Application.Models
 {
     public class gg
     {
+        public int MyProperty { get; set; }
     }
 }
