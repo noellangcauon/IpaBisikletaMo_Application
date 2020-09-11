@@ -140,6 +140,7 @@
       <DependentUpon>IpaBisikletaMo.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Enumerations.cs" />
+    <Compile Include="Models\gg.cs" />
     <Compile Include="Models\ValidationModel.cs" />
     <Compile Include="Models\IpaBisikletaMo.Context.cs">
       <AutoGen>True</AutoGen>
