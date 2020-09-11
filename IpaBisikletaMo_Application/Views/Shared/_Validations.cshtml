@@ -1,0 +1,16 @@
+﻿<br />
+<div style="background-color:darkred">
+    <br />
+    @foreach (var item in ViewBag.ErrorMessages)
+    {
+        <ul style="color:wheat;">
+            <li>@item</li>
+        </ul>
+    }
+    <br />
+</div>
+
+<!--Get Errors-->
+@*ViewBag.ErrorMessages = ValidationModel.Errors(ViewData.ModelState.Values);
+if (ViewBag.ErrorMessages != null)
+{ Html.RenderPartial("_Validations"); }*@
