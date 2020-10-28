@@ -1,0 +1,84 @@
+﻿
+
+.LeftDivSummary
+{
+    float: left;
+    padding: 0;
+    width: 40%;
+    margin-left:10px;
+    /*border:1px solid gray;*/
+}
+.RightDivDetails
+{
+    float: right;
+    padding: 0;
+    width: 58%;
+    margin-right:10px;
+   
+}
+
+.CenterOfDiv
+{
+  
+    padding: 0;
+    width: 58%;
+    margin-right:20%;
+    margin-left: 20%;
+   
+}
+
+.LeftDivDashboard
+{
+    float: left;
+    padding: 2px;
+    width: 65%;
+    margin-left:0;
+    border:1px solid #c0c0c0;
+    border-radius: 5px;
+}
+.fullDivDashboard
+{
+    float: left;
+    padding: 2px;
+    width: 100%;
+    margin-left:0;
+    border:1px solid #c0c0c0;
+    border-radius: 5px;
+}
+.RightDivDashboard
+{
+    float: right;
+    padding: 0;
+    width: 32%;
+    margin-right:10px;
+    border:1px solid #c0c0c0;
+    border-radius: 5px;
+}
+
+ #table_div
+        {
+            width: 100%;
+            height: 400px;
+            font-size: 11px;
+            color:#dc143c
+        }
+ .monthWiseGraph {
+      width: 100%;
+            height: 400px;
+            font-size: 11px;
+            color:#dc143c
+ }
+ #monthWiseCollection {
+           width: 100%;
+            height: 400px;
+            font-size: 11px;
+            color:#dc143c
+ }
+
+  #monthWiseSales {
+           width: 100%;
+            height: 400px;
+            font-size: 11px;
+      color: red
+ }
+  span.k-in > span.highlight {background:yellow}

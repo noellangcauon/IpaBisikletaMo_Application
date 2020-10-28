@@ -1,0 +1,26 @@
+﻿.btnSale {
+  background: #5097c7;
+  background-image: -webkit-linear-gradient(top, #5097c7, #4991bd);
+  background-image: -moz-linear-gradient(top, #5097c7, #4991bd);
+  background-image: -ms-linear-gradient(top, #5097c7, #4991bd);
+  background-image: -o-linear-gradient(top, #5097c7, #4991bd);
+  background-image: linear-gradient(to bottom, #5097c7, #4991bd);
+  -webkit-border-radius: 29;
+  -moz-border-radius: 29;
+  border-radius: 29px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 9px 21px 10px 19px;
+  text-decoration: none;
+}
+
+.btnSale:hover {
+  background: #27516b;
+  background-image: -webkit-linear-gradient(top, #27516b, #34688a);
+  background-image: -moz-linear-gradient(top, #27516b, #34688a);
+  background-image: -ms-linear-gradient(top, #27516b, #34688a);
+  background-image: -o-linear-gradient(top, #27516b, #34688a);
+  background-image: linear-gradient(to bottom, #27516b, #34688a);
+  text-decoration: none;
+}
